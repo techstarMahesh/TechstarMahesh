@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Indieseducation](https://indieseducation.com/author/mr-mahesh-sharma/)
 
-- 📫 How to reach me throuth [Email Me](**mistermaheshsharma@gmail.com**)
+- 📫 How to reach me throuth [click here](https://t.me/TechstarMahesh)
 
 - ⚡ Fun fact **I am so curious to learn new things.**
 
