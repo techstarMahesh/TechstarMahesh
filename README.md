@@ -4,7 +4,7 @@
 
 <h3>I'm a Full stack developer who is passionate about making open-source more accessible.</h3>
 
-- 🔭 I’m currently working on [Airline Reservation Project](https://github.com/techstarMahesh/ARS)
+- 🔭 I’m currently working on [Whatsapp Chat Automation](https://github.com/techstarMahesh/sent-whatsapp-bulk-massage)
 
 - 👯 I’m looking to collaborate on **Any open source like Web based AI and ML project**
 
@@ -18,5 +18,5 @@
 
 # Mahesh sharma GitHUb status: 
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=techstarmahesh&show_icons=true&theme=radical" alt="Shashank Kumar Dahiya" /></p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techstarmahesh&show_icons=true&theme=radical" alt="Shashank Kumar Dahiya" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=techstarmahesh&show_icons=true&theme=radical" alt="Mahesh Sharma" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techstarmahesh&show_icons=true&theme=radical" alt="Mahesh Sharma" /></p>
