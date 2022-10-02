@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Any open source like Web based AI and ML project**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/techstarMahesh/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/techstarMahesh?tab=repositories)
 
 - 📝 I regularly write articles on [Indieseducation](https://indieseducation.com/author/mr-mahesh-sharma/)
 
